@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7e876497-f410-4b8d-b9fe-e1859a9c37ac">
+  <name>Диплом</name>
+  <synonym>
+    <key>ru</key>
+    <value>Диплом</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="cab8661a-7e2d-47ac-926f-9bebec1887cf"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="77830668-6d5a-42fd-a2cd-5f01bc5fcbe7"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="d194e8de-630a-4e31-b6a9-fc97a9d26514"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="50e238cf-7138-4de3-94ef-9f713034fa84"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="10fc6416-5ace-4279-9717-17df96e2f120"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="b06e2f37-7001-4421-9b1e-3a07add51969"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="c7013679-0dc9-42a3-9562-839138dfd97d"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.23</compatibilityMode>
+  <languages uuid="f5170bdc-d68e-4d62-a78a-883bb1079762">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.Котрагенты</subsystems>
+  <subsystems>Subsystem.Сотрудники</subsystems>
+</mdclass:Configuration>
