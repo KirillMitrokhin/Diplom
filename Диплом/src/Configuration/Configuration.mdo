@@ -38,6 +38,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <subsystems>Subsystem.Котрагенты</subsystems>
-  <subsystems>Subsystem.Сотрудники</subsystems>
+  <catalogs>Catalog.Номенклатура</catalogs>
 </mdclass:Configuration>
